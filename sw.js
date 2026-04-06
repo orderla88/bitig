@@ -17,6 +17,10 @@ const PRECACHE_URLS = [
   '/CSS/styles.css',
   '/CSS/index.css',
   '/CSS/read.css',
+  // Other files
+  '/script.js',
+  '/sw.js',
+  '/manifest.webmanifest',
   // Images:
   '/Assets/Images/library.webp',
   '/Assets/Images/Uyrenu/1shi_yereje.png',
