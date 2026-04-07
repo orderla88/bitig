@@ -19,7 +19,6 @@ const PRECACHE_URLS = [
   '/BITIK/CSS/read.css',
   // Other files
   '/BITIK/script.js',
-  '/BITIK/sw.js',
   '/BITIK/manifest.webmanifest',
   // Images:
   '/BITIK/Assets/Images/library.webp',
