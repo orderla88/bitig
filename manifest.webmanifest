@@ -20,6 +20,11 @@
    "purpose": "any maskable"
    },
    {
+   "src": "Assets/Icons/android-chrome-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+   },
+   {
    "src": "Assets/Icons/apple-touch-icon.png",
    "type": "image/png"
    },
