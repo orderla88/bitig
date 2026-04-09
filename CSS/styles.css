@@ -167,6 +167,7 @@ ul, ol {margin: 0.5rem 1rem;
     list-style-position: outside;
 }
 li+li {margin-top: 0.5rem;}
+#vl li {margin-bottom: 1.3rem;}
 
 
 .circled {list-style-type: circle;}
