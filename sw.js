@@ -24,7 +24,7 @@ const PRECACHE_URLS = [
   './Assets/Images/library.webp',
   './Assets/Images/tenge_1.jpg',
   './Assets/Images/tenge_2.jpg',
-  // './Assets/Images/matin.png',
+  './Assets/Images/matin.png',
 
   './Assets/Images/Uyrenu/1shi_yereje.png',
   './Assets/Images/Uyrenu/2shi_yereje.png',
